@@ -22,6 +22,17 @@
 				"matcode": "114117",
 				"price": "61",
 				"quantity": 1
+			},{
+				"mat_name": "Sony Hdmi Dvd Player150",
+				"matcode": "114116",
+				"price": "150",
+				"quantity": 1
+			},
+			{
+				"mat_name": "Sony Dvd Player51",
+				"matcode": "114117",
+				"price": "61",
+				"quantity": 1
 			}
 		]
 	}
